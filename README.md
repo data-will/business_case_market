@@ -9,7 +9,7 @@ Contexte du business case market :
 Questions : 
 Que peut faire l'entreprise pour réduire les coûts et augmenter les bénéfices ?
 
-Business_case principalement fait avec Power_BI : 
+Business_case principalement fait avec Power_BI : https://github.com/data-will/business_case_market/blob/main/Business_keys_market.png
 
 __________________________________________________________________________________________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________________
