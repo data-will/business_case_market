@@ -9,7 +9,7 @@ Contexte du business case market :
 Questions : 
 Que peut faire l'entreprise pour réduire les coûts et augmenter les bénéfices ?
 
-Business_case principalement fait avec Power_BI : https://github.com/data-will/business_case_market/blob/main/Business_keys_market.png
+KPI'S : https://github.com/data-will/business_case_market/blob/main/Business%20Case%20Market.png
 
 __________________________________________________________________________________________________________________________________________________________________
 __________________________________________________________________________________________________________________________________________________________________
@@ -24,3 +24,5 @@ They need to explore and focus on a specific and juicy market (because they have
 
 Questions :
 What's the company can do to reduce costs and increase benefits?
+
+KPI'S : https://github.com/data-will/business_case_market/blob/main/Business%20Case%20Market.png
